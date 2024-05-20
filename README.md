@@ -10,5 +10,5 @@
 As a web developer, I’m fascinated by how far we’ve come from those early days, and I'm excited to be part of the ever-evolving web landscape! 🚀
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fhello-everyone&psig=AOvVaw2K-B4eljbv9UDooN31coe9&ust=1716271044348000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiE5aLGm4YDFQAAAAAdAAAAABAY"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fhello-everyone&psig=AOvVaw2K-B4eljbv9UDooN31coe9&ust=1716271044348000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiE5aLGm4YDFQAAAAAdAAAAABAY">
 </p>
